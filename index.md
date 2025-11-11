@@ -12,7 +12,7 @@ Prior to the UWA, I have worked as Project Officer/Education Technology Coordina
 
 I obtained my Master of Education (with Distinction) at the University of Hong Kong in 2022, graduated with the Dean’s Honours List.  
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **chayingying [at] outlook.com**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — chayingying [at] outlook.com
 
 ---
 
