@@ -1,38 +1,29 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Here is personal website of Hanlin Cai, PhD Student at the University of Cambridge.  # Strongly recommended for SEO & social cards
+title: Yingying CHA   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Yingying CHA. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Here is personal website of Yingying CHA, PhD Student at the University of Western Australia.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://YingyingforEducation.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  name: Yingying CHA
+  avatar: Yingying CHA1.jpg
+  # bio: Hope for the BEST, also prepare for the worst.
+  email: yingying.cha@research.uwa.edu.au/chayingying@outlook.com/u3584644@connect.hku.hk/
+  # cv: https://YingyingforEducation.com/file/Yingying CHA_CV_Sep 2025.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  instagram: lancecai2002
-  bilibili: 594030035
-  # facebook: caihanlin2002
-  # lastfm:
-  # tumblr:
-
+  linkedin: https://www.linkedin.com/feed/
+  Google scholar: https://scholar.google.com/citations?user=s8cJKMoAAAAJ&hl=en 
+  researchgate: https://www.researchgate.net/scientific-contributions/Yingying-Cha-2293535632
+  xiaohongshu: https://www.xiaohongshu.com/user/profile/5bcab58e2380e3000135103a
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
@@ -66,7 +57,7 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: Asia/HongKong          # IANA time-zone ID (China/Beijing is invalid)
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force
